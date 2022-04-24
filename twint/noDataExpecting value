@@ -1,0 +1,12 @@
+https://github.com/twintproject/twint/issues/1311
+
+run this code in the terminal/cmd
+
+pip3 uninstall twint && pip3 install twint && pip3 install --user --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+
+
+
+
+if running in a python virtual environment run the following
+
+pip3 uninstall twint && pip3 install twint && pip3 install --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
